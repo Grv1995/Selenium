@@ -1,2 +1,2 @@
 # Selenium
-Created Selenium test case for Amazon login page.
+Created Selenium Automation Script for Amazon login page.
